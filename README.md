@@ -2,10 +2,6 @@
 Day-by-day API test automation for SAP Procure-to-Pay using Postman. Covers auto-increment scripts, assertions, data chaining, and reporting for SAP S/4HANA testing scenarios.
 
 
-# SAP P2P API Automation with Postman
-
-Building enterprise-grade test automation for SAP Procure-to-Pay, one day at a time.
-
 **Goal:** Replace 3 hours of manual SAP testing with 90-second automated runs.
 
 ### Progress
