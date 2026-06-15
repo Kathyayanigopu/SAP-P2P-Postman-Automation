@@ -9,8 +9,6 @@ Day-by-day API test automation for SAP Procure-to-Pay using Postman. Covers auto
 - [x] Day 2: GET/POST Requests
 - [x] Day 3: Environment Variables
 - [x] Day 4: Auto-Increment 
-      ### Evidence
-      See `/Day-4-Auto-Increment/screenshots/` for execution proof.
 - [ ] Day 5: Test Assertions + Reports
 - [ ] Day 6: PO → GR → IR Data Chaining
 
@@ -37,3 +35,10 @@ let currentId = pm.environment.get("requestId");
 currentId++; 
 pm.environment.set("requestId", currentId);
 console.log("Next ID set to: " + currentId);
+
+
+### Evidence
+See `/Day-4-Auto-Increment/screenshots/` for execution proof:
+1. `01-post-response-script.jpg` - The JavaScript code
+2. `02-environment-after.jpg` - Updated requestId in environment  
+3. `03-collection-runner-results.jpg` - 5 successful iterations
