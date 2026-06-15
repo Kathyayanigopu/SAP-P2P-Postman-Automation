@@ -8,9 +8,9 @@ Day-by-day API test automation for SAP Procure-to-Pay using Postman. Covers auto
 - [x] Day 1: Workspace + Collection Setup
 - [x] Day 2: GET/POST Requests
 - [x] Day 3: Environment Variables
-- [x] Day 4: Auto-Increment PO Numbers
- ### Evidence
-See `/Day-4-Auto-Increment/screenshots/` for execution proof.
+- [x] Day 4: Auto-Increment 
+      ### Evidence
+      See `/Day-4-Auto-Increment/screenshots/` for execution proof.
 - [ ] Day 5: Test Assertions + Reports
 - [ ] Day 6: PO → GR → IR Data Chaining
 
